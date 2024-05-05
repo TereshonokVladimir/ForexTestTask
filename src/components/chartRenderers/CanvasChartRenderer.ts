@@ -1,4 +1,4 @@
-import { Bar } from '../../models/Bar';
+import { Bar } from "../../models/Bar";
 
 export class CanvasChartRenderer {
   private canvas: HTMLCanvasElement;
