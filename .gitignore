@@ -1,0 +1,8 @@
+# Ignore the dist directory
+/dist/
+
+# Ignore any files ending with .js.map
+*.js.map
+
+# Ignore node_modules directory
+/node_modules/
